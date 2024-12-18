@@ -1,8 +1,8 @@
 {
-  "name": "Priyansh",
+  "name": "Aadi",
   "version": "10.1.1",
-  "description": "A simple Facebook Messenger Bot made by 𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭.",
-  "main": "Priyansh.js",
+  "description": "A simple Facebook Messenger Bot made by 𝐀𝐚𝐝𝐢 𝐛𝐚𝐛𝐮.",
+  "main": "Aadi.js",
   "engines": {
       "node": "20.x",
       "npm": "10.0.0"
@@ -14,7 +14,7 @@
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/Priyansh-11/Priyansh-bot/issues"
+      "url": "https://github.com/brokenaadi143A/AADI-/issues"
   },
   "keywords": [
       "bot",
@@ -26,12 +26,12 @@
       "prince",
       "mental"
   ],
-  "author": "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+  "author": "𝐀𝐚𝐝𝐢 𝐛𝐚𝐛𝐮",
   "license": "GPL-3.0",
   "bugs": {
-      "url": "https://github.com/Priyansh-11/Priyansh-bot/issues"
+      "url": "https://github.com/brokenaadi143A/AADI-/issues"
   },
-  "homepage": "https://github.com/Priyansh-11/Priyansh-bot/issues",
+  "homepage": "https://github.com/brokenaadi143A/AADI-/issues",
   "dependencies": {
       "@distube/ytdl-core": "^4.13.2",
       "@miraipr0ject/assets": "^1.0.9",
